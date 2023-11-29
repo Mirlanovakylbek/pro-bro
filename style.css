@@ -1,0 +1,24 @@
+table{
+    
+    margin: auto;
+    width: 500px;
+    background-color: black;
+    margin-top: 80px;
+}
+th{
+    width: 450px;
+    height: 30px;
+    background-color:green;
+    color: snow;
+    text-align: left;
+    }
+td{
+    width: 200px;
+    background-color: rgb(12, 245, 12);
+    color: white;
+}
+body{
+    background-image: url(img/evro.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
